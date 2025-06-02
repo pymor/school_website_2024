@@ -15,7 +15,8 @@ A detailed timetable can be found [here](https://indico.uni-muenster.de/event/27
 
 # Materials
 
-The lectures and exercises will be made publicly available.
+The lectures and exercises are available in a
+[GitHub repository](https://github.com/pymor/2024_pymor_school).
 
 # Introduction to Python
 
